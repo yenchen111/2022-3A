@@ -9,3 +9,10 @@
 
 ![NKUST](182513897.png "高科大")
 
+- [ ] todo list
+- [x] done
+
+```python
+s = "Python Syntax highlighting"
+print(s)
+```
