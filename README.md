@@ -9,12 +9,18 @@
 
 ![NKUST](182513897.png "高科大")
 
+
+
 - [ ] todo list
 - [x] done
 
 ```python
 s = "Python Syntax highlighting"
 print(s)
+```
+```javascript
+var s = "jacascript Syntax highlighting"
+alert(s);
 ```
 
 | Tables         | Are            | Cool    |
@@ -25,5 +31,5 @@ print(s)
 
 | Markdown         | Less            | Pretty    |
 | :------------- |:-------------- |:-------  |
-| *Still*       | randers  | **nicely**   |
+| *Still*       | `randers`  | **nicely**   |
 | 1       | 2       | 3     |
