@@ -13,7 +13,11 @@
 | 10 | 使用者訓練 | 20 | 7,8 |
 | 11 | 使用者測試 | 25 | 9,10 |
 
+***
 ![image](PERT.png)
+
+***
+#甘特圖
 ```mermaid
 gantt    
     title 甘特圖
@@ -50,3 +54,7 @@ gantt
     section 使用者測試
     25天     :a11,after a9, 25d
 ```
+
+
+***
+![image]()
