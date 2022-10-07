@@ -14,8 +14,7 @@
 | 11 | 使用者測試 | 25 | 9,10 |
 
 ![image](PERT.png)
-
-'''mermaid
+```mermaid
 gantt    
     title 甘特圖
     section 研擬計畫
@@ -50,5 +49,4 @@ gantt
     
     section 使用者測試
     25天     :a11,after a9, 25d
-    
-'''
+```
