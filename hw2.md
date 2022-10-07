@@ -17,7 +17,7 @@
 ![image](PERT.png)
 
 ***
-#甘特圖
+# 甘特圖
 ```mermaid
 gantt    
     title 甘特圖
@@ -57,4 +57,4 @@ gantt
 
 
 ***
-![image]()
+![image](關鍵路徑.png)
